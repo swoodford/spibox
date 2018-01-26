@@ -1,3 +1,0 @@
-[submodule "luma.led_matrix"]
-	path = luma.led_matrix
-	url = git@github.com:rm-hull/luma.led_matrix.git
